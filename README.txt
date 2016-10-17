@@ -4,3 +4,4 @@ Committing from an alternate location
 Sharing remotely is fun and easy
 Are you kidding!?
 Feature2
+Feature2 changes
